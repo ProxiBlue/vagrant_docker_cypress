@@ -1,0 +1,1 @@
+{"dependencies":[["communicator-docker",["= 1.0.6"]],["multi_json",[">= 0"]],["excon",[">= 0.47.0"]],["docker-api",["= 2.0.0"]],["vagrant-hostmanager",["= 1.8.9"]]],"checksum":"78ebd69e857253c380e717e888210d59090623f169df0de066b4c9fa99a420d4","vagrant_version":"2.2.10"}
