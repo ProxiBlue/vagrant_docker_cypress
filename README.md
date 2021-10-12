@@ -52,5 +52,6 @@ You will see the demo test listed and can be run
 
 All display will happen on teh HOST machine due to x11 mapping form host to docker
 
+![2021-10-12_14-32](https://user-images.githubusercontent.com/4994260/136905121-87308873-b398-4138-beb3-917018c4d817.png)
 
-
+[View video](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
